@@ -26,7 +26,7 @@ The goal is to enhance predictive modeling, uncover business insights, and suppo
    - Ensured fair training for models by avoiding dominance of majority class.  
 
 4. **Modeling & Evaluation**  
-   - Trained classification models to predict **risk_classification**.  
+   - Trained classification models (XGB Boost and TAB Transformers) to predict **risk_classification**.  
    - Evaluated with **confusion matrices** and **feature importance plots**.  
    - Found engineered features spread importance across multiple factors, unlike raw data dominated by a single variable.  
 
