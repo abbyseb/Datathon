@@ -1,3 +1,4 @@
+# Team Powerhouseee
 # Supply Chain Risk Classification with Feature Engineering & SMOTE
 
 This project focuses on analyzing a synthetic **supply chain logistics dataset** to classify risk levels (Low, Moderate, High).  
