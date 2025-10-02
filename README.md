@@ -46,4 +46,11 @@ The goal is to enhance predictive modeling, uncover business insights, and suppo
 - **Human Factor Control:** Monitoring fatigue and behavior can improve safety and reduce delays.  
 - **Strategic Planning:** Enables “what-if” simulations for disruptions (e.g., port strikes, congestion spikes).  
 
+## GUI
+<img width="1197" height="638" alt="Screenshot 2025-10-02 at 11 41 00 AM" src="https://github.com/user-attachments/assets/c8a68ec7-8c97-4af6-822b-c6df3998a7d7" />
+
+
+
+
+
 ---
